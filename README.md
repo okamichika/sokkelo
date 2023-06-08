@@ -1,4 +1,4 @@
-# Sokkelo : un jeu de labyrinthe en python
+# Sokkelo
 Sokkelo est un jeu de labyrinthe développer en python grâce au package pyxel.  
   
 ## Lancer le jeu
